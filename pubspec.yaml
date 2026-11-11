@@ -1,7 +1,13 @@
 name: dart_ocpp
 description: "OCPP 1.6-J and 2.0.1 client/server over WebSocket, with 1.x→2.x migration helpers."
 version: 0.2.0
-publish_to: none
+repository: https://github.com/vishnuprasad0/dart_ocpp
+issue_tracker: https://github.com/vishnuprasad0/dart_ocpp/issues
+topics:
+  - ocpp
+  - ev-charging
+  - websocket
+  - iot
 environment:
   sdk: ^3.4.0
 dependencies:

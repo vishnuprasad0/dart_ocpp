@@ -7,8 +7,7 @@ OCPP 1.6-J and 2.0.1 client over WebSocket, with typed message models and
 
 ```yaml
 dependencies:
-  dart_ocpp:
-    path: ../dart_ocpp   # not yet published (publish_to: none)
+  dart_ocpp: ^0.2.0
 ```
 
 ## Quickstart: OCPP 2.0.1
